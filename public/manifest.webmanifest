@@ -1,0 +1,9 @@
+{
+  "name": "Dollars to Yum Yums",
+  "short_name": "Yum Yums",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf3",
+  "theme_color": "#e8553d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
